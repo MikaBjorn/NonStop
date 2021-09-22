@@ -1,0 +1,44 @@
+header {
+  background-color: #D1DA7A;
+  padding: 10px;
+}
+
+nav
+{
+width: 400px;
+height: 20px;
+background: #D6C136;
+margin-left: 200px;
+}
+nav ul
+{
+margin: 0 0 0 -10px;
+}
+nav li
+{
+float: left;
+list-style-type: none;
+padding: 0 10px;
+}
+
+section {
+  background-color: #7AB4DA;
+}
+
+aside {
+  color: white;
+  background-color: #209BD5;
+  float: right;
+  width: 200px;
+  height: 400px;
+}
+
+section {
+  background-color: #93C7DF;
+  width: 700px
+}
+
+footer {
+  background: #CEDF93;
+  height: 30px
+}

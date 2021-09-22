@@ -1,0 +1,73 @@
+#ekaheader {
+  color: green;
+}
+
+#tokaheader {
+  font-family: 'Caveat', cursive;
+}
+
+#yksi {
+  color: yellow;
+  font-size: 90%
+}
+
+#kaksi {
+  color: red;
+  font-size: 120%
+}
+
+#kolme {
+  color: green;
+  font-size: 140%
+}
+
+#neljä {
+  color: green;
+  font-size: 160%
+}
+
+#viisi {
+  color: green;
+  font-size: 180%
+}
+
+#kuusi {
+  color: orange;
+  font-size: 180%
+}
+
+#seitsemän {
+  color: orange;
+  font-size: 160%
+}
+
+#kahdeksan {
+  color: aqua;
+  font-size: 140%
+}
+
+#yhdeksän {
+  color: pink;
+  font-size: 120%
+}
+
+#kymmenen {
+  color: brown;
+  font-size: 90%
+}
+
+#yksitoista {
+  font-family: 'Dancing Script', cursive;
+}
+
+#kaksitoista {
+  font-family: 'Imbue', monospace;
+}
+
+#kolmetoista {
+  font-family: 'Arizonia', cursive;
+}
+
+#neljätoista {
+  font-family: 'Allison', cursive;
+}
