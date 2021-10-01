@@ -1,0 +1,56 @@
+#ekap, .ekakuva, #ekah1, #ekah3{
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.num1, .num2, .num3, .testimonial{
+  float: left;
+  padding-right: 10px;
+}
+#alin{
+  color: grey;
+}
+footer{
+  color: grey;
+  text-align: center;
+}
+#lähetä{
+  border-radius: 15px;
+  background-color: orange;
+  display: block;
+  margin-left: auto;
+  margin-right: right;
+  height: 50px;
+  width: 100px;
+}
+div {
+  float: right;
+  padding: 10px;
+  border-radius: 15px;
+  border: 5px solid #53a2d6;
+  height: 375px;
+  width: 400px;
+  margin-left: auto;
+  margin-right: right;
+}
+
+p {
+  display: table-row;
+}
+label {
+  display: table-cell;
+}
+input {
+  display: table-cell;
+}
+
+.WebContainer{
+    width: 100%;
+    height: auto;
+}
+.articles{
+    width:90%;
+    height: auto;
+    margin: auto;
+}
