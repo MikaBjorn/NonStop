@@ -1,0 +1,144 @@
+body {
+  background-color: #8761B5;
+}
+
+#PC {
+  width: 550px;
+  height: 650px;
+  padding-top: 30px;
+  padding-right: 250px;
+  float: right;
+}
+
+#kuva1 {
+  width: 125px;
+  float: left;
+}
+
+#KOG {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 40px;
+  padding-top: 25px;
+}
+
+nav {
+width: 900px;
+height: 20px;
+margin-left: 900px;
+}
+
+nav ul {
+margin: 0 0 0 -10px;
+}
+
+nav li {
+font-size: 40px;
+float: left;
+list-style-type: none;
+padding: 0 10px;
+}
+
+a:link {
+  color: darkorange;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: pink;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active, a:visited {
+  color: purple;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+#etuh {
+  padding-left: 10px;
+}
+
+#etup {
+  padding-left: 10px;
+  font-size: 18px;
+}
+
+#tietoa {
+  font-size: 18px;
+}
+
+.tietoa {
+  float: left;
+  width: 400px;
+  background-color: purple;
+}
+
+hr {
+  color: #8761B5;
+}
+
+#eng {
+  font-size: 20px;
+  float: right;
+  list-style-type: none;
+  padding: 0 10px;
+}
+
+#video {
+  padding-left: 50px;
+}
+
+#Joo {
+  padding-top: 50px;
+  padding-right: 100px;
+  float: right;
+}
+
+#lähetä{
+  border-radius: 15px;
+  background-color: orange;
+  display: block;
+  margin-left: auto;
+  margin-right: right;
+  height: 50px;
+  width: 100px;
+}
+div {
+  float: right;
+  padding: 10px;
+  border-radius: 15px;
+  border: 4px solid darkblue;
+  height: 375px;
+  width: 400px;
+  margin-left: auto;
+  margin-right: right;
+}
+
+p {
+  display: table-row;
+}
+label {
+  display: table-cell;
+}
+input {
+  display: table-cell;
+}
+
+#asiakas {
+  float: left;
+}
+
+#DISCORD {
+  background-color: gray;
+  font-size: 50px;
+}
+
+#Linna {
+  padding-left: 50px;
+}
+
+#kogi {
+  padding-left: 300px;
+}
