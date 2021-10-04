@@ -1,0 +1,99 @@
+body{
+  background-color: #4B4B4B;
+}
+
+#logo {
+  padding-left: 45px;
+  float: left;
+}
+
+#otsikko {
+  font-size: 75px;
+  font-family: 'Work Sans', sans-serif;
+  padding-left: 100px;
+}
+
+#kirja {
+  margin-top: -55px;
+  font-family: 'Birthstone', cursive;
+  padding-left: 100px;
+  font-size: 35px;
+}
+
+nav
+{
+font-size: 25px;
+width: 600px;
+height: 20px;
+margin-left: 600px;
+}
+
+nav ul
+{
+margin: 0 0 0 -10px;
+}
+
+nav li
+{
+float: left;
+list-style-type: none;
+padding: 0 10px;
+}
+
+a:link {
+  color: purple;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: purple;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: darkorange;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: purple;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+#logo2 {
+  padding-left: 30px;
+  float: left;
+}
+
+#tarina {
+  margin-top: auto;
+  font-size: 30px;
+  padding-left: 70px;
+}
+
+#tietoa {
+  padding-left: 15px;
+  font-size: 18px;
+  width: 800px;
+}
+
+
+
+
+
+
+#footer{
+}
+
+#kirkko {
+  margin-top: -70px;
+  margin-left: 500px;
+}
+
+#puu {
+  margin-top: -70px;
+}
