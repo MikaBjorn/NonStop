@@ -1,5 +1,5 @@
 body{
-  background-color: #4B4B4B;
+  background-color: #BB8A06;
 }
 
 #logo {
@@ -81,11 +81,6 @@ a:active {
   width: 800px;
 }
 
-
-
-
-
-
 #footer{
 }
 
@@ -96,4 +91,90 @@ a:active {
 
 #puu {
   margin-top: -70px;
+}
+
+
+article {
+width: 200px;
+background: #CCAB05;
+}
+
+article p {
+color: purple;
+margin-top: -20px;
+padding: 10px;
+}
+
+article h3 {
+  margin-left: 75px;
+  padding: 10px;
+}
+
+aside {
+border-radius: 15px;
+width: 300px;
+height: 400px;
+background: #CCAB05;
+float: right;
+margin-right: 650px;
+margin-top: -60px;
+}
+
+#maisema {
+  padding: 10px;
+  width: 280px;
+}
+
+#paikatp {
+  font-size: 18px;
+  padding: 20px;
+}
+
+
+#lähetä{
+  border-radius: 15px;
+  background-color: orange;
+  display: block;
+  margin-left: auto;
+  margin-right: right;
+  height: 50px;
+  width: 100px;
+}
+div {
+  margin-left: 10px;
+  float: left;
+  padding: 10px;
+  border-radius: 15px;
+  border: 5px solid #53a2d6;
+  height: 325px;
+  width: 400px;
+}
+
+#formp {
+  display: table-row;
+}
+
+label {
+  display: table-cell;
+}
+
+input {
+  display: table-cell;
+}
+
+#putous {
+  float: left;
+  margin-left: -440px;
+  margin-top: 360px;
+}
+
+#suomi {
+  float: left;
+  margin-left: 10px;
+  margin-top: 360px;
+}
+
+#kataja {
+  float: left;
+  margin-left: -600px;
 }
