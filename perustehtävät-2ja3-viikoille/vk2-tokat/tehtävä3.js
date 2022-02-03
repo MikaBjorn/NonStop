@@ -1,9 +1,6 @@
 function tarkista() {
 var vuosiluku = document.getElementById('vuosi').value;
-if (vuosiluku % 400 === 0) {
-  document.getElementById('vuosluku').innerHTML = "Vuosi on karkausvuosi"
-}
-else if (vuosiluku % 4 === 0) {
+if ((0 == vuosiluku % 4) && (0 != vuosiluku % 100) || (0 == vuosiluku % 400)) {
   document.getElementById('vuosluku').innerHTML = "Vuosi on karkausvuosi"
 }
 else {
